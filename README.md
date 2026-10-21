@@ -1,6 +1,6 @@
 # Blocade Управление
 
-[Скачать APK](https://github.com/murtmarsel/BlocadeManager-Releases/releases/tag/v0.4.0-preview)
+[Скачать APK](https://github.com/murtmarsel/BlocadeManager-Releases/releases/tag/v0.4.1-preview)
 
 Android 8+. Единый вход по email, паролю и коду из письма. Роль определяется сервером.
 
